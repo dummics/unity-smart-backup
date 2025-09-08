@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+  "name": "Dummics's Backup Tool Listing",
+  "id": "com.dummics.avatarbackup-listing",
+  "url": "https://dummics.github.io/avatarbackup-listing/index.json",
+  "author": {
+    "email": "business@dummics.com",
+    "name": "Dummics",
+    "url": "https://github.com/dummics"
+  },
+  "description": "Listing dei miei pacchetti personali per VRChat, incluso Avatar Smart Backup",
+  "infoLink": {
+    "url": "https://github.com/dummics/avatarbackup-listing",
+    "text": "Repo listing on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "dummics/AvatarSmartBackups"
+  ]
 }
