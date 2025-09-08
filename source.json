@@ -1,19 +1,16 @@
 {
-  "name": "Dummics's Backup Tool Listing",
+  "name": "Dominik's Backup Listing",
   "id": "com.dummics.avatarbackup-listing",
   "url": "https://dummics.github.io/flowye-backup-tool/index.json",
-  "author": {
-    "email": "business@dummics.com",
-    "name": "Dummics",
-    "url": "https://github.com/dummics"
-  },
-  "description": "Listing dei miei pacchetti personali per VRChat, incluso Avatar Smart Backup",
-  "infoLink": {
-    "url": "https://github.com/dummics/avatarbackup-listing",
-    "text": "Repo listing on GitHub"
-  },
+  "author": { "name": "Dominik", "url": "https://github.com/dummics" },
+  "description": "Listing dei miei pacchetti (Avatar Smart Backup).",
   "bannerUrl": "banner.png",
-  "githubRepos": [
-    "dummics/AvatarSmartBackups"
+  "packages": [
+    {
+      "name": "dum.incb.system",
+      "releases": [
+        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.0/dum.incb.system-1.0.0.zip"
+      ]
+    }
   ]
 }
