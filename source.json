@@ -1,9 +1,9 @@
 {
-  "name": "Dominik's Backup Listing",
-  "id": "com.dummics.avatarbackup-listing",
+  "name": "Dummics's Backup Tool Listing",
+  "id": "com.dummics.avatarbackup-tool",
   "url": "https://dummics.github.io/flowye-backup-tool/index.json",
-  "author": { "name": "Dominik", "url": "https://github.com/dummics" },
-  "description": "Listing dei miei pacchetti (Avatar Smart Backup).",
+  "author": { "name": "Dummics", "url": "https://github.com/dummics" },
+  "description": "Listing pacchetto per tool backup (Avatar Smart Backup).",
   "bannerUrl": "banner.png",
   "packages": [
     {
