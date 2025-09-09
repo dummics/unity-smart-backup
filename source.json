@@ -2,7 +2,10 @@
   "name": "Dummics's Backup Tool Listing",
   "id": "com.dummics.avatarbackup-tool",
   "url": "https://dummics.github.io/flowye-backup-tool/index.json",
-  "author": { "name": "Dummics", "url": "https://github.com/dummics" },
+  "author": {
+    "name": "Dummics",
+    "url": "https://github.com/dummics"
+  },
   "description": "Listing pacchetto per tool backup (Avatar Smart Backup).",
   "bannerUrl": "banner.png",
   "packages": [
@@ -12,5 +15,10 @@
         "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.0/dum.incb.system-1.0.0.zip"
       ]
     }
-  ]
+  ],
+  "versions": {
+    "1.0.1": {
+      "url": "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.1/dum.incb.system-1.0.1.zip"
+    }
+  }
 }
