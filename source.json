@@ -17,9 +17,4 @@
       ]
     }
   ],
-  "versions": {
-    "1.0.1": {
-      "url": "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.1/dum.incb.system-1.0.1.zip"
-    }
-  }
 }
