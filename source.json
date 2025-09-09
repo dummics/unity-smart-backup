@@ -13,7 +13,8 @@
       "name": "dum.incb.system",
       "releases": [
         "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.0/dum.incb.system-1.0.0.zip",
-        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.1/dum.incb.system-1.0.1.zip"
+        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.1/dum.incb.system-1.0.1.zip",
+        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.2/dum.incb.system-1.0.2.zip"
       ]
     }
   ]
