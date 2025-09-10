@@ -1,7 +1,7 @@
 {
   "name": "Dummics's Backup Tool Listing",
   "id": "com.dummics.avatarbackup-tool",
-  "url": "https://dummics.github.io/flowye-backup-tool/index.json",
+  "url": "https://dummics.github.io/unity-smart-backup/index.json",
   "author": {
     "name": "Dummics",
     "url": "https://github.com/dummics"
@@ -12,10 +12,10 @@
     {
       "name": "dum.incb.system",
       "releases": [
-        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.0/dum.incb.system-1.0.0.zip",
-        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.1/dum.incb.system-1.0.1.zip",
-        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.2/dum.incb.system-1.0.2.zip",
-        "https://github.com/dummics/flowye-backup-tool/releases/download/1.0.3/dum.incb.system-1.0.3.zip"
+        "https://github.com/dummics/unity-smart-backup/releases/download/1.0.0/dum.incb.system-1.0.0.zip",
+        "https://github.com/dummics/unity-smart-backup/releases/download/1.0.1/dum.incb.system-1.0.1.zip",
+        "https://github.com/dummics/unity-smart-backup/releases/download/1.0.2/dum.incb.system-1.0.2.zip",
+        "https://github.com/dummics/unity-smart-backup/releases/download/1.0.3/dum.incb.system-1.0.3.zip"
       ]
     }
   ]
