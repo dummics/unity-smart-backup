@@ -9,9 +9,9 @@ Runs in the background and lets you restore safely whenever you need.
 
 [![Add to VCC](https://img.shields.io/badge/Add%20to%20VCC-Click-blue)](vcc://vpm/addRepo?url=https%3A%2F%2Fdummics.github.io%2Funity-smart-backup%2Findex.json)
 
-Or add this URL manually in VCC:
+Or by visiting the VCC Listing page:
 
-https://dummics.github.io/unity-smart-backup/index.json
+[VCC LISTING](https://dummics.github.io/unity-smart-backup/)
 
 --
 
