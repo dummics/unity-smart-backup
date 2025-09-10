@@ -7,13 +7,9 @@ Runs in the background and lets you restore safely whenever you need.
 
 ## Installation
 
-[![Add to VCC](https://img.shields.io/badge/Add%20to%20VCC-Click-blue)](vcc://vpm/addRepo?url=https%3A%2F%2Fdummics.github.io%2Funity-smart-backup%2Findex.json)
+[![Add to VCC](https://img.shields.io/badge/Add%20to%20VCC-Click-blue)](https://dummics.github.io/unity-smart-backup/)
 
-Or by visiting the VCC Listing page:
 
-[VCC LISTING](https://dummics.github.io/unity-smart-backup/)
-
---
 
 ## Usage
 
