@@ -17,6 +17,13 @@
         "https://github.com/dummics/unity-smart-backup/releases/download/0.2.0/dum.incb.system-0.2.0.zip"
       ],
       "updatedAt": "2025-09-18T23:43:39Z"
+    },
+    {
+      "name": "AvatarSmartBackups",
+      "updatedAt": "2025-09-19T11:47:54Z",
+      "releases": [
+        "https://github.com/dummics/unity-smart-backup/releases/download/0.2.0/AvatarSmartBackups-0.2.0.zip"
+      ]
     }
   ]
 }
