@@ -14,7 +14,7 @@ Runs in the background and lets you restore safely whenever you need.
 ## Usage
 
 1. Add the repository to **VCC** using the button above.  
-2. Install **Flowye Backup Tool** from the *Manage Project* tab.  
+2. Install the tool from the *Manage Project* tab.  
 3. In Unity, open **Tools → Avatar Smart Backup**.  
 4. Automatic backups are enabled by default, you can create snapshots manually with one click.
 
